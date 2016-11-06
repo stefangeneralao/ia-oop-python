@@ -1,0 +1,27 @@
+name: Mah Webb
+
+description: Mah Webb
+
+github: https://github.com/mah-webb/mah-webb.github.io
+
+analytics: UA-48530327-3
+
+url: http://mah-webb.github.io
+
+# highlighter: pygments
+# markdown: kramdown
+
+kramdown:
+    input: GFM
+
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE.txt']
+
+include: ['.htaccess']
+
+gems: [jekyll-paginate]
+
+permalink: /blog/:categories/:title.html
+
+paginate: 5
+paginate_path: /blog/page:num
+
