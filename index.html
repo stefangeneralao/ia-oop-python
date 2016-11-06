@@ -1,41 +1,18 @@
 ---
 layout: default
-title: Hem
-class: index
+title: Kurser
 markdown: 0
 ---
 
-<div class="row">
-    <h1 class="brand">{{ site.name }}</h1>
-</div>
-
-<div class="row">
-    <div class="col-6">
-        <h2 class="content-header">Kurser</h2>
-        <ul class="content-list">
-            {% for course in site.data.courses %}
-            <li>
-                <a href="/courses/{{ course.code }}" title="Gå till kursen {{ course.name }}">
-                    <span class="course-name">{{ course.name }}</span>
-                    <span class="course-code">{{ course.code | upcase }}</span>
-                    <span class="course-credits">{{ course.credits }} hp</span>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-
-    <div class="col-6">
-        <h2 class="content-header">Blogg</h2>
-        <ul class="content-list">
-            {% for post in site.posts %}
-            <li>
-                <a href="{{ post.url }}" title="Gå till blogg inlägget {{ post.title }}">
-                    <span class="blog-title">{{ post.title }}</span>
-                    <span class="blog-date">{{ post.date | date: "%-d %B %Y" }}</span>
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-</div>
+<h1 class="course-list-header">Kurser</h1>
+<ul class="course-list">
+    {% for course in site.data.courses %}
+    <li>
+        <a href="/courses/{{ course.code }}" title="Gå till kursen {{ course.name }}">
+            <span class="course-name">{{ course.name }}</span>
+            <span class="course-code">{{ course.code | upcase }}</span>
+            <span class="course-credits">{{ course.credits }} hp</span>
+        </a>
+    </li>
+    {% endfor %}
+</ul>
