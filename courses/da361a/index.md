@@ -39,8 +39,7 @@ Kursen har ett övergripande upplägg med föreläsning och laborationer varje v
 
 ## Lärare
 
-* Sebastian Bengtegård (sebastian.bengtegard@mah.se) - kursansvarig
-* Anton Tibblin (anton.tibblin@mah.se) - programledare
+* Anton Tibblin (anton.tibblin@mah.se) - kursansvarig
 * Kristian Ekberg (kristian.ekberg@mah.se)
 
 ## Länkar
@@ -50,5 +49,5 @@ Kursen har ett övergripande upplägg med föreläsning och laborationer varje v
 * [It's learning][itslearning]
 
 [kursplan]: /courses/da361a/syllabus.html "Gå till kursplanen"
-[schema]: http://schema.mah.se/setup/jsp/Schema.jsp?startDatum=idag&intervallTyp=m&intervallAntal=6&sokMedAND=false&sprak=SV&resurser=k.DA361A-20152-TS569-%2C "Gå till schemat"
+[schema]: http://schema.mah.se/setup/jsp/Schema.jsp?startDatum=idag&intervallTyp=m&intervallAntal=6&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.DA361A-20162-TS694- "Gå till schemat"
 [itslearning]: https://mah.itslearning.com/elogin/ "Gå till It's learning"

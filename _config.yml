@@ -1,8 +1,8 @@
-name: Mah Webb
+name: Objektorienterad programmering och modellering
 
-description: Mah Webb
+description: DA361A
 
-github: https://github.com/mah-webb/mah-webb.github.io
+github: https://github.com/Tibbelit/ia-oop-python
 
 analytics: UA-48530327-3
 
@@ -24,4 +24,3 @@ permalink: /blog/:categories/:title.html
 
 paginate: 5
 paginate_path: /blog/page:num
-
