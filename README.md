@@ -50,7 +50,7 @@ git branch -D fix#123       # Delete local branch
 
 Adding a new course:
 
-1. Add the new course in `_data/courses.yml`. 
+1. Add the new course in `_data/courses.yml`.
 2. Create course file in `_data/`, ex. `_data/me105a.yml`.
 3. Create a new directory in `courses/`, ex. `courses/me105a/`.
 4. Create the course main page `index.md` and the needed subdirectories for assignments, exercises, projects and lectures.
