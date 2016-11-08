@@ -9,6 +9,9 @@ syllabus: true
 # Föreläsningar
 lectures:
     - name: Kursintroduktion
+      file: F00
+
+    - name: Repetition
       file: F01
 
 #    - name: Föreläsning 1
