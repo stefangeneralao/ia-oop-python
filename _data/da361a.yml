@@ -14,8 +14,8 @@ lectures:
     - name: Repetition
       file: F01
 
-#    - name: Föreläsning 1
-#      file: F02
+    - name: Python 1
+      file: F02
 
 #    - name: Föreläsning 2
 #      file: F03
