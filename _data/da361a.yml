@@ -17,8 +17,8 @@ lectures:
     - name: Python 1
       file: F02
 
-#    - name: Föreläsning 2
-#      file: F03
+    - name: Python 2
+      file: F03
 
 #    - name: Föreläsning 3
 #      file: F04
@@ -37,8 +37,8 @@ assignments:
     - name: Uppgift 1
       file: U01
 
-#    - name: Uppgift 2
-#      file: U02
+    - name: Uppgift 2
+      file: U02
 
 # Laborationer
 exercises:
@@ -51,8 +51,8 @@ exercises:
     - name: Laboration 2
       file: L02
 
-#    - name: Laboration 3
-#      file: L03
+    - name: Laboration 3
+      file: L03
 
 #    - name: Laboration 4
 #      file: L04
