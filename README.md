@@ -1,7 +1,7 @@
-Mah Webb 
+Mah Webb
 ==================
 
-> [mah-webb.github.io](http://mah-webb.github.io)
+> [da361a.ia-mah.se](da361a.ia-mah.se)
 
 ## Contribute
 
@@ -12,8 +12,8 @@ To get started:
 1. Clone this repository
 
     ```bash
-    git clone https://github.com/mah-webb/mah-webb.github.io.git
-    cd mah-webb.github.io
+    git clone https://github.com/mah-dv/ia-oop-python.git
+    cd ia-oop-python
     ```
 
 2. Install dependencies
