@@ -6,19 +6,22 @@ credits: 7.5
 # Kursplan, filnamn (syllabus.md)
 syllabus: true
 
+plan: true
+
+
 # Föreläsningar
 lectures:
-    - name: Kursintroduktion
-      file: F00
-
-    - name: Repetition
-      file: F01
-
-    - name: Python 1
-      file: F02
-
-    - name: Python 2
-      file: F03
+#    - name: Kursintroduktion
+#      file: F00
+#
+#    - name: Repetition
+#      file: F01
+#
+#    - name: Python 1
+#      file: F02
+#
+#    - name: Python 2
+#      file: F03
 
 #    - name: Föreläsning 3
 #      file: F04
@@ -34,28 +37,28 @@ lectures:
 
 # Uppgifter
 assignments:
-    - name: Uppgift 1
-      file: U01
-
-    - name: Uppgift 2
-      file: U02
+#    - name: Uppgift 1
+#      file: U01
+#
+#    - name: Uppgift 2
+#      file: U02
 
 # Laborationer
 exercises:
-    - name: Laboration 0
-      file: L00
-
-    - name: Laboration 1
-      file: L01
-
-    - name: Laboration 2
-      file: L02
-
-    - name: Laboration 3
-      file: L03
-
-    - name: Laboration 4
-      file: L04
+#    - name: Laboration 0
+#      file: L00
+#
+#    - name: Laboration 1
+#      file: L01
+#
+#    - name: Laboration 2
+#      file: L02
+#
+#    - name: Laboration 3
+#      file: L03
+#
+#    - name: Laboration 4
+#      file: L04
 
 #    - name: Laboration 5
 #      file: L05
