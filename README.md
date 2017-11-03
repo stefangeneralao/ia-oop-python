@@ -1,4 +1,4 @@
-Mah Webb
+DA361A - Objektorienterad programmering och modellering för IA
 ==================
 
 > [da361a.ia-mah.se](da361a.ia-mah.se)
