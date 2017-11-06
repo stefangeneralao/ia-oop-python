@@ -11,8 +11,8 @@ plan: true
 
 # Föreläsningar
 lectures:
-#    - name: Kursintroduktion
-#      file: F00
+    - name: Kursintroduktion
+      file: F00
 #
 #    - name: Repetition
 #      file: F01
