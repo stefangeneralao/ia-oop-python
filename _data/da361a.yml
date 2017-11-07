@@ -45,6 +45,9 @@ assignments:
 
 # Laborationer
 exercises:
+    - name: UML - Workshop
+      file: L0
+
 #    - name: Laboration 0
 #      file: L00
 #
