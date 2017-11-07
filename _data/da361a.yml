@@ -14,8 +14,8 @@ lectures:
     - name: Kursintroduktion
       file: F00
 #
-#    - name: Repetition
-#      file: F01
+    - name: Introduktion till UML
+      file: F01
 #
 #    - name: Python 1
 #      file: F02
