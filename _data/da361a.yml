@@ -16,6 +16,9 @@ lectures:
 #
     - name: Introduktion till UML
       file: F01
+
+    - name: UML - Workshop
+      file: F001
 #
 #    - name: Python 1
 #      file: F02
