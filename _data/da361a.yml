@@ -19,9 +19,9 @@ lectures:
 
     - name: UML - Workshop
       file: F001
-#
-#    - name: Python 1
-#      file: F02
+
+    - name: Python - recap
+      file: F02
 #
 #    - name: Python 2
 #      file: F03
