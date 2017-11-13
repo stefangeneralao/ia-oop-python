@@ -54,7 +54,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="laboration odd">
         <td>16/11</td>
         <td>08-12</td>
-        <td>Laboration: Repetion Python + intro OOP</td>
+        <td>Laboration: <a href="/courses/da361a/exercises/L00.html">Repetion Python</a> + <a href="/courses/da361a/exercises/L01.html">intro OOP</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
 
