@@ -42,13 +42,13 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="3">46</td>
         <td>13/11</td>
         <td>10-12</td>
-        <td><a href="/courses/da361a/lectures/F02.html"Föreläsning - Python recap</a></td>
+        <td><a href="/courses/da361a/lectures/F02.html">Föreläsning - Python recap</a></td>
         <td>Anton</td>
     </tr>
     <tr class="lecture odd">
         <td>14/11</td>
         <td>13-15</td>
-        <td>Föreläsning - Introduktion OOP</td>
+        <td><a href="/courses/da361a/lectures/F03.html">Föreläsning - Introduktion OOP</a></td>
         <td>Aleksander</td>
     </tr>
     <tr class="laboration odd">
