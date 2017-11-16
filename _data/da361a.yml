@@ -22,9 +22,9 @@ lectures:
 
     - name: Python - recap
       file: F02
-#
-#    - name: Python 2
-#      file: F03
+
+    - name: Python - Intro OOP
+      file: F03
 
 #    - name: Föreläsning 3
 #      file: F04
