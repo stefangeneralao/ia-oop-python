@@ -80,7 +80,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td>Anton</td>
     </tr>
     <tr class="laboration odd">
-        <td>29/11</td>
+        <td>30/11</td>
         <td>13-15</td>
         <td>Laboration - Mer OOP</td>
         <td>Anton</td>
@@ -94,7 +94,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td>Anton &amp; Aleksander</td>
     </tr>
     <tr class="laboration even">
-        <td>6/12</td>
+        <td>7/12</td>
         <td>08-12</td>
         <td>Laboration - Mer OOP</td>
         <td>Anton</td>
