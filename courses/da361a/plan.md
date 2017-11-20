@@ -66,7 +66,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td>Aleksander</td>
     </tr>
     <tr class="laboration even">
-        <td>22/11</td>
+        <td>23/11</td>
         <td>13-15</td>
         <td>Laboration: OOP - Relationer, Arv, m.m.</td>
         <td>Anton &amp; Aleksander</td>
