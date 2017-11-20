@@ -11,17 +11,20 @@ plan: true
 
 # Föreläsningar
 lectures:
-#    - name: Kursintroduktion
-#      file: F00
+    - name: Kursintroduktion
+      file: F00
 #
-#    - name: Repetition
-#      file: F01
-#
-#    - name: Python 1
-#      file: F02
-#
-#    - name: Python 2
-#      file: F03
+    - name: Introduktion till UML
+      file: F01
+
+    - name: UML - Workshop
+      file: F001
+
+    - name: Python - recap
+      file: F02
+
+    - name: Python - Intro OOP
+      file: F03
 
 #    - name: Föreläsning 3
 #      file: F04
@@ -37,19 +40,22 @@ lectures:
 
 # Uppgifter
 assignments:
-#    - name: Uppgift 1
-#      file: U01
+    - name: Uppgift 1
+      file: U01
 #
 #    - name: Uppgift 2
 #      file: U02
 
 # Laborationer
 exercises:
-#    - name: Laboration 0
-#      file: L00
-#
-#    - name: Laboration 1
-#      file: L01
+    - name: UML - Workshop
+      file: L0
+
+    - name: Laboration 0
+      file: L00
+
+    - name: Laboration 1
+      file: L01
 #
 #    - name: Laboration 2
 #      file: L02

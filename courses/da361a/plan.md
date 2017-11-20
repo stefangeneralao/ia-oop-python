@@ -22,19 +22,19 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="3">45</td>
         <td>6/11</td>
         <td>10-12</td>
-        <td>Kursintroduktion</td>
+        <td><a href="/courses/da361a/lectures/F00.html">Kursintroduktion</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
     <tr class="lecture even">
         <td>7/11</td>
         <td>13-15</td>
-        <td>Föreläsning - Introduktion till UML</td>
+        <td><a href="/courses/da361a/lectures/F01.html">Föreläsning - Introduktion till UML</a></td>
         <td>Anton</td>
     </tr>
     <tr class="laboration even">
         <td>9/11</td>
         <td>08-12</td>
-        <td>Workshop UML</td>
+        <td><a href="/courses/da361a/exercises/L0.html">Workshop UML</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
 
@@ -42,19 +42,19 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="3">46</td>
         <td>13/11</td>
         <td>10-12</td>
-        <td>Föreläsning - Python recap</td>
+        <td><a href="/courses/da361a/lectures/F02.html">Föreläsning - Python recap</a></td>
         <td>Anton</td>
     </tr>
     <tr class="lecture odd">
         <td>14/11</td>
         <td>13-15</td>
-        <td>Föreläsning - Introduktion OOP</td>
+        <td><a href="/courses/da361a/lectures/F03.html">Föreläsning - Introduktion OOP</a></td>
         <td>Aleksander</td>
     </tr>
     <tr class="laboration odd">
         <td>16/11</td>
         <td>08-12</td>
-        <td>Laboration: Repetion Python + intro OOP</td>
+        <td>Laboration: <a href="/courses/da361a/exercises/L00.html">Repetion Pythonlide</a> + <a href="/courses/da361a/exercises/L01.html">intro OOP</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
 
