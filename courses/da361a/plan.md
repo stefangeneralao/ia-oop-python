@@ -62,13 +62,13 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">47</td>
         <td>21/11</td>
         <td>13-15</td>
-        <td>Föreläsning: OOP - Relationer, Arv, m.m.</td>
+        <td><a href="/courses/da361a/lectures/F04.html">Föreläsning: OOP - Relationer, Arv, m.m.</a></td>
         <td>Aleksander</td>
     </tr>
     <tr class="laboration even">
         <td>23/11</td>
         <td>13-15</td>
-        <td>Laboration: OOP - Relationer, Arv, m.m.</td>
+        <td><a href="/courses/da361a/exercises/L02.html">Laboration: OOP - Relationer, Arv, m.m. (1)</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
 
@@ -82,7 +82,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="laboration odd">
         <td>30/11</td>
         <td>13-15</td>
-        <td>Laboration - Mer OOP</td>
+        <td><a href="/courses/da361a/exercises/L04.html">Laboration: OOP - Relationer, Arv, m.m. (1)</a></td>
         <td>Anton</td>
     </tr>
 
