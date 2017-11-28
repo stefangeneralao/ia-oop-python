@@ -76,7 +76,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">48</td>
         <td>28/11</td>
         <td>13-15</td>
-        <td>Föreläsning: Mer OOP och PEP</td>
+        <td><a href="/courses/da361a/lectures/F05.html">Föreläsning: Mer OOP och PEP</a></td>
         <td>Anton</td>
     </tr>
     <tr class="laboration odd">
@@ -96,7 +96,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="laboration even">
         <td>7/12</td>
         <td>08-12</td>
-        <td>Laboration - Mer OOP</td>
+        <td><a href="/courses/da361a/exercises/L03.html">Laboration - Mer OOP (1)</a></td>
         <td>Anton</td>
     </tr>
 
@@ -110,7 +110,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
 	<tr class="laboration odd">
 		<td>14/12</td>
 		<td>08-12</td>
-		<td>Laboration - Mer OOP</td>
+		<td><a href="/courses/da361a/exercises/L03.html">Laboration - Mer OOP (2)</a></td>
         <td>Anton</td>
 	</tr>
 

@@ -29,8 +29,8 @@ lectures:
     - name: Python - Inheritance
       file: F04
 
-#    - name: Föreläsning 4
-#      file: F05
+    - name: Python - Mer om OOP
+      file: F05
 
 #    - name: Föreläsning 5
 #      file: F06
@@ -59,12 +59,12 @@ exercises:
 
     - name: Laboration 2
       file: L02
-#
-#    - name: Laboration 3
-#      file: L03
-#
+
     - name: Laboration 3
       file: L04
+
+    - name: Laboration 4
+      file: L03
 
 #    - name: Laboration 5
 #      file: L05
