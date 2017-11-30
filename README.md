@@ -1,7 +1,7 @@
-Mah Webb
+DA361A - Objektorienterad programmering och modellering för IA
 ==================
 
-> [mah-webb.github.io](http://mah-webb.github.io)
+> [da361a.ia-mah.se](da361a.ia-mah.se)
 
 ## Contribute
 
@@ -12,8 +12,8 @@ To get started:
 1. Clone this repository
 
     ```bash
-    git clone https://github.com/mah-webb/mah-webb.github.io.git
-    cd mah-webb.github.io
+    git clone https://github.com/mah-dv/ia-oop-python.git
+    cd ia-oop-python
     ```
 
 2. Install dependencies
@@ -50,7 +50,7 @@ git branch -D fix#123       # Delete local branch
 
 Adding a new course:
 
-1. Add the new course in `_data/courses.yml`. 
+1. Add the new course in `_data/courses.yml`.
 2. Create course file in `_data/`, ex. `_data/me105a.yml`.
 3. Create a new directory in `courses/`, ex. `courses/me105a/`.
 4. Create the course main page `index.md` and the needed subdirectories for assignments, exercises, projects and lectures.

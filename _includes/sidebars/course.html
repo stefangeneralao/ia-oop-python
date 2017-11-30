@@ -8,6 +8,22 @@
     </h3>
 
     <ul class="course-overview">
+        {% if site.data[page.code].plan %}
+        <li>
+            <span class="course-overview-element">
+                <a href="/courses/{{ page.code }}/plan.html">Planering</a>
+            </span>
+        </li>
+        {% endif %}
+
+        {% if site.data[page.code].exams %}
+        <li>
+            <span class="course-overview-element">
+                <a href="/courses/{{ page.code }}/exams.html">Extentor</a>
+            </span>
+        </li>
+        {% endif %}
+
         {% if site.data[page.code].assignments %}
         <li>
             <span class="course-overview-element">

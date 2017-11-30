@@ -6,22 +6,33 @@ credits: 7.5
 # Kursplan, filnamn (syllabus.md)
 syllabus: true
 
+plan: true
+
+exams: true
+
+
 # Föreläsningar
 lectures:
-#    - name: Kursintroduktion
-#      file: F01
+    - name: Kursintroduktion
+      file: F00
+#
+    - name: Introduktion till UML
+      file: F01
 
-#    - name: Föreläsning 1
-#      file: F02
+    - name: UML - Workshop
+      file: F001
 
-#    - name: Föreläsning 2
-#      file: F03
+    - name: Python - recap
+      file: F02
 
-#    - name: Föreläsning 3
-#      file: F04
+    - name: Python - Intro OOP
+      file: F03
 
-#    - name: Föreläsning 4
-#      file: F05
+    - name: Python - Inheritance
+      file: F04
+
+    - name: Python - Mer om OOP
+      file: F05
 
 #    - name: Föreläsning 5
 #      file: F06
@@ -31,25 +42,31 @@ lectures:
 
 # Uppgifter
 assignments:
-#    - name: Uppgift 1
-#      file: U01
-
+    - name: Uppgift 1
+      file: U01
+#
 #    - name: Uppgift 2
 #      file: U02
 
 # Laborationer
 exercises:
-#    - name: Laboration 1
-#      file: L01
+    - name: UML - Workshop
+      file: L0
 
-#    - name: Laboration 2
-#      file: L02
+    - name: Laboration 0
+      file: L00
 
-#    - name: Laboration 3
-#      file: L03
+    - name: Laboration 1
+      file: L01
 
-#    - name: Laboration 4
-#      file: L04
+    - name: Laboration 2
+      file: L02
+
+    - name: Laboration 3
+      file: L04
+
+    - name: Laboration 4
+      file: L03
 
 #    - name: Laboration 5
 #      file: L05
