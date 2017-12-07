@@ -90,7 +90,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">49</td>
         <td>5/12</td>
         <td>13-15</td>
-        <td>Föreläsning: Vanliga OOP-utmaningar</td>
+        <td><a href="/courses/da361a/lectures/F06.html">Föreläsning: OOP - Extra</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
     <tr class="laboration even">
@@ -101,10 +101,10 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     </tr>
 
     <tr class="lecture odd">
-        <td rowspan="2">50</td>
+        <td rowspan="3">50</td>
         <td>12/12</td>
         <td>13-15</td>
-        <td>Föreläsning: OOP i verkliga livet</td>
+        <td>Föreläsning: Inför tentan</td>
         <td>Anton &amp; Aleksander</td>
     </tr>
 	<tr class="laboration odd">
@@ -113,10 +113,8 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
 		<td><a href="/courses/da361a/exercises/L03.html">Laboration - Mer OOP (2)</a></td>
         <td>Anton</td>
 	</tr>
-
     <tr class="tenta assignment odd">
-        <td rowspan="1">51</td>
-        <td>18/12</td>
+        <td>15/12</td>
         <td>08-12</td>
         <td>Tenta</td>
         <td></td>
