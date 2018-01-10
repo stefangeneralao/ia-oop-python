@@ -37,6 +37,9 @@ lectures:
     - name: Python - Extra
       file: F06
 
+    - name: Python - Extra (recept)
+      file: F07
+
     # - name: Föreläsning 6
     #   file: F07
 
