@@ -14,7 +14,7 @@ url: http://mah-webb.github.io
 kramdown:
     input: GFM
 
-exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE.txt']
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE.txt', 'vendor']
 
 include: ['.htaccess']
 

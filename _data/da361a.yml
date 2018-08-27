@@ -13,63 +13,63 @@ exams: true
 
 # Föreläsningar
 lectures:
-    - name: Kursintroduktion
-      file: F00
+#    - name: Kursintroduktion
+#      file: F00
 #
-    - name: Introduktion till UML
-      file: F01
-
-    - name: UML - Workshop
-      file: F001
-
-    - name: Python - recap
-      file: F02
-
-    - name: Python - Intro OOP
-      file: F03
-
-    - name: Python - Inheritance
-      file: F04
-
-    - name: Python - Mer om OOP
-      file: F05
+#    - name: Introduktion till UML
+#      file: F01
+#
+#    - name: UML - Workshop
+#      file: F001
+#
+#    - name: Python - recap
+#      file: F02
+#
+#    - name: Python - Intro OOP
+#      file: F03
+#
+#    - name: Python - Inheritance
+#     file: F04
+#
+#    - name: Python - Mer om OOP
+#      file: F05
 
 #    - name: Föreläsning 5
 #      file: F06
 
-    # - name: Föreläsning 6
-    #   file: F07
+# - name: Föreläsning 6
+#   file: F07
 
 # Uppgifter
-assignments:
-    - name: Uppgift 1
-      file: U01
+#assignments:
+#    - name: Uppgift 1
+#      file: U01
 #
 #    - name: Uppgift 2
 #      file: U02
 
 # Laborationer
 exercises:
-    - name: UML - Workshop
-      file: L0
-
+#    - name: UML - Workshop
+#      file: L0
+#
     - name: Laboration 0
       file: L00
 
-    - name: Laboration 1
-      file: L01
-
-    - name: Laboration 2
-      file: L02
-
-    - name: Laboration 3
-      file: L04
-
-    - name: Laboration 4
-      file: L03
+#    - name: Laboration 1
+#      file: L01
+#
+#    - name: Laboration 2
+#      file: L02
+#
+#    - name: Laboration 3
+#      file: L04
+#
+#    - name: Laboration 4
+#      file: L03
 
 #    - name: Laboration 5
 #      file: L05
 
-    # - name: Laboration 6
-    #   file: E06
+# - name: Laboration 6
+#   file: E06

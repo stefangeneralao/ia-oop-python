@@ -19,121 +19,155 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <th>Vem</th>
     </tr>
     <tr class="lecture even">
-        <td rowspan="3">45</td>
-        <td>6/11</td>
-        <td>10-12</td>
-        <td><a href="/courses/da361a/lectures/F00.html">Kursintroduktion</a></td>
-        <td>Anton &amp; Aleksander</td>
-    </tr>
-    <tr class="lecture even">
-        <td>7/11</td>
+        <td rowspan="2">36</td>
+        <td>4/6</td>
         <td>13-15</td>
-        <td><a href="/courses/da361a/lectures/F01.html">Föreläsning - Introduktion till UML</a></td>
-        <td>Anton</td>
-    </tr>
-    <tr class="laboration even">
-        <td>9/11</td>
-        <td>08-12</td>
-        <td><a href="/courses/da361a/exercises/L0.html">Workshop UML</a></td>
+        <td>Kursintroduktion</td>
         <td>Anton &amp; Aleksander</td>
+    </tr>
+    <tr class="lecture odd">
+        <td>6/9</td>
+        <td>10-12</td>
+        <td>Föreläsning - Introduktion till UML</td>
+        <td>Anton</td>
     </tr>
 
     <tr class="lecture odd">
-        <td rowspan="3">46</td>
-        <td>13/11</td>
+        <td rowspan="3">37</td>
+        <td>10/9</td>
         <td>10-12</td>
-        <td><a href="/courses/da361a/lectures/F02.html">Föreläsning - Python recap</a></td>
+        <td><a href="/courses/da361a/exercises/L00.html">Föreläsning - Procedurell programmering</a></td>
         <td>Anton</td>
     </tr>
     <tr class="lecture odd">
-        <td>14/11</td>
-        <td>13-15</td>
-        <td><a href="/courses/da361a/lectures/F03.html">Föreläsning - Introduktion OOP</a></td>
-        <td>Aleksander</td>
-    </tr>
-    <tr class="laboration odd">
-        <td>16/11</td>
-        <td>08-12</td>
-        <td>Laboration: <a href="/courses/da361a/exercises/L00.html">Repetion Pythonlide</a> + <a href="/courses/da361a/exercises/L01.html">intro OOP</a></td>
-        <td>Anton &amp; Aleksander</td>
-    </tr>
-
-    <tr class="lecture even">
-        <td rowspan="2">47</td>
-        <td>21/11</td>
-        <td>13-15</td>
-        <td><a href="/courses/da361a/lectures/F04.html">Föreläsning: OOP - Relationer, Arv, m.m.</a></td>
-        <td>Aleksander</td>
-    </tr>
-    <tr class="laboration even">
-        <td>23/11</td>
-        <td>13-15</td>
-        <td><a href="/courses/da361a/exercises/L02.html">Laboration: OOP - Relationer, Arv, m.m. (1)</a></td>
-        <td>Anton &amp; Aleksander</td>
-    </tr>
-
-    <tr class="lecture odd">
-        <td rowspan="2">48</td>
-        <td>28/11</td>
-        <td>13-15</td>
-        <td><a href="/courses/da361a/lectures/F05.html">Föreläsning: Mer OOP och PEP</a></td>
+        <td>11/9</td>
+        <td>13-17</td>
+        <td>Workshop - UML</td>
         <td>Anton</td>
     </tr>
     <tr class="laboration odd">
-        <td>30/11</td>
-        <td>13-15</td>
-        <td><a href="/courses/da361a/exercises/L04.html">Laboration: OOP - Relationer, Arv, m.m. (2)</a></td>
-        <td>Anton</td>
+        <td>13/9</td>
+        <td>08-12</td>
+        <td>Laboration: Procedurell programmering</td>
+        <td>Anton &amp; Aleksander</td>
     </tr>
 
     <tr class="lecture even">
-        <td rowspan="2">49</td>
-        <td>5/12</td>
+        <td rowspan="2">38</td>
+        <td>18/9</td>
         <td>13-15</td>
-        <td>Föreläsning: Vanliga OOP-utmaningar</td>
-        <td>Anton &amp; Aleksander</td>
+        <td>Föreläsning - Introduktion till OOP med Python</td>
+        <td>Aleksander</td>
     </tr>
     <tr class="laboration even">
-        <td>7/12</td>
+        <td>20/9</td>
         <td>08-12</td>
-        <td><a href="/courses/da361a/exercises/L03.html">Laboration - Mer OOP (1)</a></td>
-        <td>Anton</td>
+        <td>Labb - Introduktion till OOP</td>
+        <td>Anton &amp; Aleksander</td>
     </tr>
 
     <tr class="lecture odd">
-        <td rowspan="2">50</td>
-        <td>12/12</td>
+        <td rowspan="2">39</td>
+        <td>25/9</td>
         <td>13-15</td>
-        <td>Föreläsning: OOP i verkliga livet</td>
+        <td>Föreläsning - OOP, relationer, arv, m.m.</td>
+        <td>Aleksander</td>
+    </tr>
+    <tr class="laboration odd">
+        <td>27/9</td>
+        <td>08-12</td>
+        <td>Labb - OOP, relationer, arv, m.m.</td>
+        <td>Anton &amp; Aleksander</td>
+    </tr>
+
+    <tr class="lecture even">
+        <td rowspan="3">40</td>
+        <td>2/10</td>
+        <td>13-15</td>
+        <td>Föreläsning - Mer om OOP &amp; Python</td>
+        <td>Aleksander</td>
+    </tr>
+    <tr class="laboration even">
+        <td>4/10</td>
+        <td>08-12</td>
+        <td>Laboration - Mer om OOP</td>
+        <td>Anton &amp; Aleksander</td>
+    </tr>
+    <tr class="tenta even">
+        <td>7/10</td>
+        <td></td>
+        <td><em>Deadline: Inlämningsuppgift 1</em></td>
+        <td></td>
+    </tr>
+
+    <tr class="lecture odd">
+        <td rowspan="2">41</td>
+        <td>9/10</td>
+        <td>13-15</td>
+        <td>Workshop - Case med OOP</td>
         <td>Anton &amp; Aleksander</td>
     </tr>
 	<tr class="laboration odd">
-		<td>14/12</td>
-		<td>08-12</td>
-		<td><a href="/courses/da361a/exercises/L03.html">Laboration - Mer OOP (2)</a></td>
+		<td>11/10</td>
+		<td>13-17</td>
+		<td>Laboration - Mer om OOP</td>
         <td>Anton</td>
 	</tr>
 
-    <tr class="tenta assignment odd">
-        <td rowspan="1">51</td>
-        <td>18/12</td>
+    <tr class="lecture odd">
+        <td rowspan="2">42</td>
+        <td>16/10</td>
+        <td>13-15</td>
+        <td>Föreläsning - TBA</td>
+        <td>Anton</td>
+    </tr>
+    <tr class="lecture odd">
+        <td>18/10</td>
         <td>08-12</td>
-        <td>Tenta</td>
-        <td></td>
+        <td>Labb - TBA</td>
+        <td>Anton</td>
+    </tr>
+
+    <tr class="lecture odd">
+        <td rowspan="2">43</td>
+        <td>23/10</td>
+        <td>13-15</td>
+        <td>Föreläsning - Extra</td>
+        <td>Anton</td>
+    </tr>
+    <tr class="lecture odd">
+        <td>25/10</td>
+        <td>08-12</td>
+        <td>Labb - Extra</td>
+        <td>Anton</td>
     </tr>
 
     <tr class="lecture even">
-        <td rowspan="2">2</td>
-        <td>9/1</td>
-        <td>13-15</td>
-        <td>Föreläsning: Extra</td>
+        <td rowspan="2">44</td>
+        <td>1/11</td>
+        <td>08-12</td>
+        <td>Labb: Extra</td>
+        <td>Anton</td>
+    </tr>
+    <tr class="tenta even">
+        <td>1/11</td>
+        <td></td>
+        <td><em>Deadline: Inlämningsuppgift 2</em></td>
         <td></td>
     </tr>
-    <tr class="laboration even">
-        <td>11/1</td>
-        <td>13-15</td>
-        <td>Laboration: Extra</td>
+
+    <tr class="tenta even">
+        <td rowspan="2">45</td>
+        <td>6/11</td>
+        <td>08-12</td>
+        <td>Salstentamen ordinarie tillfälle</td>
         <td></td>
+    </tr>
+    <tr class="lecture even">
+        <td>8/11</td>
+        <td>08-12</td>
+        <td>Labb: Extra</td>
+        <td>Anton</td>
     </tr>
 </table>
 
