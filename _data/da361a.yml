@@ -34,13 +34,17 @@ lectures:
 #    - name: Python - Mer om OOP
 #      file: F05
 
-#    - name: Föreläsning 5
-#      file: F06
+    - name: Python - Extra
+      file: F06
+
+    - name: Python - Extra (recept)
+      file: F07
 
 # - name: Föreläsning 6
 #   file: F07
 
 # Uppgifter
+
 #assignments:
 #    - name: Uppgift 1
 #      file: U01
