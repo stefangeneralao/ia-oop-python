@@ -6,7 +6,7 @@ title: Planering - Objektorienterad programmering och modellering DA361A (7.5 hp
 
 # Planering
 
-För enkelhetens skull är alla viktiga datum och tider sammanställda här. För att undvika motsägande information är salar inte angivna - [se det officiella schemat](http://schema.mah.se/setup/jsp/Schema.jsp?startDatum=idag&intervallTyp=m&intervallAntal=6&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.DA361A-20172-TS795-).
+För enkelhetens skull är alla viktiga datum och tider sammanställda här. För att undvika motsägande information är salar inte angivna - [se det officiella schemat](http://schema.mah.se/setup/jsp/Schema.jsp?startDatum=idag&intervallTyp=m&intervallAntal=6&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.DA361A-20182-TS985-).
 
 Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges så långt man minst bör sträva efter att komma. (Det skadar aldrig att jobba med senare delar!). Genom att aktivt delta i laborationerna så får man tillgodoräkna sig <strong>0.5p</strong> per laboration i kursen (detta är per laboration, och inte per tillfälle. Extratillfälle för laborationer kommer således inte kunna ge extra poäng)
 
