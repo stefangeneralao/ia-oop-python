@@ -13,8 +13,8 @@ exams: true
 
 # Föreläsningar
 lectures:
-#    - name: Kursintroduktion
-#      file: F00
+    - name: Kursintroduktion
+      file: F00
 #
 #    - name: Introduktion till UML
 #      file: F01
