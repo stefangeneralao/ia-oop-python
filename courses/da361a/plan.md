@@ -25,7 +25,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td>Kursintroduktion</td>
         <td>Anton &amp; Aleksander</td>
     </tr>
-    <tr class="lecture odd">
+    <tr class="lecture even">
         <td>6/9</td>
         <td>10-12</td>
         <td>Föreläsning - Introduktion till UML</td>
@@ -36,7 +36,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="3">37</td>
         <td>10/9</td>
         <td>10-12</td>
-        <td><a href="/courses/da361a/exercises/L00.html">Föreläsning - Procedurell programmering</a></td>
+        <td>Föreläsning - Procedurell programmering</td>
         <td>Anton</td>
     </tr>
     <tr class="lecture odd">
@@ -48,7 +48,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="laboration odd">
         <td>13/9</td>
         <td>08-12</td>
-        <td>Laboration: Procedurell programmering</td>
+        <td><a href="/courses/da361a/exercises/L00.html">Laboration: Procedurell programmering</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
 
