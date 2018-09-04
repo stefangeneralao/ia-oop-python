@@ -22,7 +22,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="2">36</td>
         <td>4/6</td>
         <td>13-15</td>
-        <td><a href="/lectures/F00.html">Kursintroduktion</a></td>
+        <td><a href="/courses/da361a/lectures/F00.html">Kursintroduktion</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
     <tr class="lecture even">
