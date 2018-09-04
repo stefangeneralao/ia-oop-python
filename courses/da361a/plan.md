@@ -113,14 +113,14 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
 		<td>Laboration - Mer om OOP</td>
         <td>Anton</td>
 	</tr>
-  <tr class="lecture odd">
+  <tr class="lecture even">
         <td rowspan="2">42</td>
         <td>16/10</td>
         <td>13-15</td>
         <td>Föreläsning - TBA</td>
         <td>Anton</td>
     </tr>
-    <tr class="lecture odd">
+    <tr class="lecture even">
         <td>18/10</td>
         <td>08-12</td>
         <td>Labb - TBA</td>
