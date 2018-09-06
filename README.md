@@ -3,6 +3,8 @@ DA361A - Objektorienterad programmering och modellering för IA
 
 > [da361a.ia-mau.se](da361a.ia-mau.se)
 
+**Please use the branch "gh-pages" for updating the website**
+
 ## Contribute
 
 This site is made with [Jekyll](http://jekyllrb.com) and published with [GitHub Pages](https://pages.github.com/). Be sure to read up on both [Jekyll](http://jekyllrb.com) and [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages) before contributing.
