@@ -15,9 +15,9 @@ exams: true
 lectures:
     - name: Kursintroduktion
       file: F00
-#
-#    - name: Introduktion till UML
-#      file: F01
+
+    - name: Introduktion till UML
+      file: F01
 #
 #    - name: UML - Workshop
 #      file: F001
