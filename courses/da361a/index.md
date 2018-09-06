@@ -46,8 +46,8 @@ Kursen har ett övergripande upplägg med föreläsning och laborationer varje v
 
 * [Kursplan][kursplan]
 * [Schema][schema]
-* [It's learning][itslearning]
+* [Canvas][canvas]
 
 [kursplan]: /courses/da361a/syllabus.html "Gå till kursplanen"
 [schema]: http://schema.mah.se/setup/jsp/Schema.jsp?startDatum=idag&intervallTyp=m&intervallAntal=6&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.DA361A-20172-TS795- "Gå till schemat"
-[itslearning]: https://mah.itslearning.com/elogin/ "Gå till It's learning"
+[canvas]: https://www.mah.se/ext/Canvas/ "Gå till It's learning"
