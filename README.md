@@ -1,7 +1,7 @@
 DA361A - Objektorienterad programmering och modellering för IA
 ==================
 
-> [da361a.ia-mau.se](da361a.ia-mau.se)
+> [da361a.ia-mau.se](http://da361a.ia-mau.se)
 
 **Please use the branch "gh-pages" for updating the website**
 
