@@ -22,8 +22,8 @@ lectures:
 #    - name: UML - Workshop
 #      file: F001
 #
-#    - name: Python - recap
-#      file: F02
+    - name: Python - recap
+      file: F02
 #
 #    - name: Python - Intro OOP
 #      file: F03
