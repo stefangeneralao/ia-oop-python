@@ -28,7 +28,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="lecture even">
         <td>6/9</td>
         <td>10-12</td>
-        <td>Föreläsning - Introduktion till UML</td>
+        <td><a href="/courses/da361a/lectures/F01.html">Föreläsning - Introduktion till UML</a></td>
         <td>Anton</td>
     </tr>
 
@@ -36,7 +36,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
         <td rowspan="3">37</td>
         <td>10/9</td>
         <td>10-12</td>
-        <td>Föreläsning - Procedurell programmering</td>
+        <td><a href="/courses/da361a/lectures/F02.html">Föreläsning - Procedurell programmering</a></td>
         <td>Anton</td>
     </tr>
     <tr class="lecture odd">
