@@ -18,12 +18,12 @@ lectures:
 
     - name: Introduktion till UML
       file: F01
-#
-#    - name: UML - Workshop
-#      file: F001
-#
+
     - name: Python - recap
       file: F02
+
+    - name: UML - Workshop
+      file: F001
 #
 #    - name: Python - Intro OOP
 #      file: F03
@@ -54,9 +54,9 @@ lectures:
 
 # Laborationer
 exercises:
-#    - name: UML - Workshop
-#      file: L0
-#
+    - name: UML - Workshop
+      file: L0
+
     - name: Laboration 0
       file: L00
 
