@@ -42,7 +42,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="lecture odd">
         <td>11/9</td>
         <td>13-17</td>
-        <td>Workshop - UML</td>
+        <td><a href="/courses/da361a/exercises/L0.html">Workshop - UML</a></td>
         <td>Anton</td>
     </tr>
     <tr class="laboration odd">
@@ -96,7 +96,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="tenta even">
         <td>7/10</td>
         <td></td>
-        <td><em>Deadline: Inlämningsuppgift 1</em></td>
+        <td><em><a href="/courses/da361a/assignments/U01.html">Deadline: Inlämningsuppgift 1</a></em></td>
         <td></td>
     </tr>
 
