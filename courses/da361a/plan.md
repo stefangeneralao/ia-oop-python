@@ -62,7 +62,7 @@ Labbtillfällena är i grunden fria att disponera, men i tabellen nedan anges s�
     <tr class="laboration even">
         <td>20/9</td>
         <td>08-12</td>
-        <td><a href="/courses/da361a/exercises/L00.html">Labb - Introduktion till OOP</a></td>
+        <td><a href="/courses/da361a/exercises/L01.html">Labb - Introduktion till OOP</a></td>
         <td>Anton &amp; Aleksander</td>
     </tr>
 
