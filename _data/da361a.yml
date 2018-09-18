@@ -24,9 +24,9 @@ lectures:
 
     - name: UML - Workshop
       file: F001
-#
-#    - name: Python - Intro OOP
-#      file: F03
+
+    - name: Python - Intro OOP
+      file: F03
 #
 #    - name: Python - Inheritance
 #     file: F04
@@ -60,8 +60,8 @@ exercises:
     - name: Laboration 0
       file: L00
 
-#    - name: Laboration 1
-#      file: L01
+    - name: Laboration 1
+      file: L01
 #
 #    - name: Laboration 2
 #      file: L02
