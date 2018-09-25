@@ -29,7 +29,7 @@ lectures:
       file: F03
 
     - name: Python - Inheritance
-     file: F04
+      file: F04
 #
 #    - name: Python - Mer om OOP
 #      file: F05
