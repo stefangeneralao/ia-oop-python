@@ -27,9 +27,9 @@ lectures:
 
     - name: Python - Intro OOP
       file: F03
-#
-#    - name: Python - Inheritance
-#     file: F04
+
+    - name: Python - Inheritance
+     file: F04
 #
 #    - name: Python - Mer om OOP
 #      file: F05
@@ -48,9 +48,9 @@ lectures:
 assignments:
     - name: Uppgift 1
       file: U01
-
-    - name: Uppgift 2
-      file: U02
+#
+#    - name: Uppgift 2
+#      file: U02
 
 # Laborationer
 exercises:
