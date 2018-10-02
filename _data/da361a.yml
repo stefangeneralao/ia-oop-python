@@ -30,9 +30,9 @@ lectures:
 
     - name: Python - Inheritance
       file: F04
-#
-#    - name: Python - Mer om OOP
-#      file: F05
+
+    - name: Python - Mer om OOP
+      file: F05
 
 #    - name: Python - Extra
 #      file: F06
